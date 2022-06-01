@@ -5,5 +5,6 @@ Repositorio modificado desde terminal de UBUNTU
 
 Esta línea representa el commit realizado desde GitHub Desktop. Este archivo fue modificado con Visual Estudio Code.
 
-Esta línea representa el commit realizado desde Visual Studio Code con ayuda de Source Control
+Esta línea representa el commit realizado desde Visual Studio Code con ayuda de Source Control 
+
 
