@@ -13,4 +13,4 @@ Esta línea representa el primer commit realizado con Pull Request desde VSC gru
 
 Esta línea representa un repazo del video 6 para recordar el uso de Git Hub Desktop
 
-Esta línea representa un repaso del video 6 para recordar el uso de Source control desde Visual Studio Code
+Esta línea representa un repaso del video 6 para recordar el uso de Source control desde Visual Studio Code.
