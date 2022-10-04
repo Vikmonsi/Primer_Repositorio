@@ -9,3 +9,8 @@ Esta línea representa el commit realizado desde Visual Studio Code con ayuda de
 
 Esta línea representa el primer commit realizado con Pull Request desde VSC grupo 9
 
+04/10/2022
+
+Esta línea representa un repazo del video 6 para recordar el uso de Git Hub Desktop
+
+Esta línea representa un repazo del video 6 para recordar el uso de Source control desde Visual Studio Code
